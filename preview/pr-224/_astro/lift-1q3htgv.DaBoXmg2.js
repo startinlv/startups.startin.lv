@@ -1,0 +1,1 @@
+import{l as e,o as t}from"./format.BZ7BMWYX.js";import{t as n}from"./interpolate.D_KGEhY9.js";import{a as r}from"./datasets.SJVN82Oz.js";var i=r,a={},o={value:({}={})=>(e=>e.map(e=>t(e.kpi.total_profit))),share:({shareText:t}={})=>(r=>r.map(r=>n(t,{percent:e(r.share.profit_share_percent)})))};export{a as atoms,o as callbacks,i as dataset};
