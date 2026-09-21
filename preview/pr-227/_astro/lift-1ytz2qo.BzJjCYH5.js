@@ -1,0 +1,1 @@
+import{t as e}from"./t.Dri3u-5V.js";import{l as t,s as n}from"./format.BZ7BMWYX.js";import{a as r}from"./datasets.SJVN82Oz.js";var i=r,a={},o={value:({}={})=>(e=>e.map(e=>n(e.kpi.total_startups))),share:({}={})=>(n=>n.map(n=>e(`metric.shareOfTotal`,{percent:t(n.share.company_share_percent)})))};export{a as atoms,o as callbacks,i as dataset};
