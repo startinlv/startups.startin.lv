@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime.D9ID-yJk.js";import{c as t,l as n}from"./format.BZ7BMWYX.js";var r=e();function i({value:e,fmt:i}){if(e===null)return(0,r.jsx)(`span`,{className:`text-slate-400`,children:`–`});let a=e>0,o=i===`pct1`?n(e):t(e);return(0,r.jsxs)(`span`,{className:a?`text-positive`:`text-negative`,children:[a?`▲`:`▼`,` `,o]})}export{i as t};
