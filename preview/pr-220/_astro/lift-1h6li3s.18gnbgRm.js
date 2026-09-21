@@ -1,1 +1,0 @@
-import{n as e,t}from"./datasets.SJVN82Oz.js";var n=e,r={baseline:t},i={x:({}={})=>(e=>e.x??`employees_gp`),y:({}={})=>(e=>e.y??`turnover`),groupBy:({}={})=>(e=>e.groupBy)};export{r as atoms,i as callbacks,n as dataset};
