@@ -1,1 +1,0 @@
-import{l as e,o as t}from"./format.BZ7BMWYX.js";import{t as n}from"./t.DpxXpngm.js";import{a as r}from"./datasets.D38W-Ifz.js";var i=r,a={},o={value:({}={})=>(e=>e.map(e=>t(e.kpi.total_budget_payments))),share:({}={})=>(t=>t.map(t=>n(`metric.shareOfTotal`,{percent:e(t.share.budget_payments_share_percent)})))};export{a as atoms,o as callbacks,i as dataset};
