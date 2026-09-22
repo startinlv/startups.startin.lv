@@ -1,1 +1,0 @@
-import{n as e}from"./filterSummary.Daa-fiei.js";import{s as t}from"./datasets.SJVN82Oz.js";var n=t,r={},i={text:({strings:t}={})=>(n=>n.map(({selection:n,live:r})=>e(n,r,t).join(` · `)))};export{r as atoms,i as callbacks,n as dataset};
