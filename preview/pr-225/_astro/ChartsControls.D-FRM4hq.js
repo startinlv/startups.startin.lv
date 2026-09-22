@@ -1,1 +1,0 @@
-import{_ as e}from"./directoryState.BSDO7umH.js";import{t}from"./jsx-runtime.D9ID-yJk.js";import{n,t as r}from"./MobileFilterDrawer.C9Rzkjji.js";var i=t();function a({initialLive:t,...a}){let{live:o}=e(t);return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(n,{...a,live:o}),(0,i.jsx)(r,{...a,live:o})]})}export{a as default};

@@ -1,1 +1,0 @@
-function e(e,t){return t?e.replace(/\{(\w+)\}/g,(e,n)=>n in t?String(t[n]):e):e}export{e as t};
