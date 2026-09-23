@@ -1,1 +1,0 @@
-import{n as e,t}from"./datasets.D38W-Ifz.js";var n=e,r={baseline:t},i={x:({}={})=>(e=>e.x??`sector`),y:({}={})=>(e=>e.y??`turnover`),groupBy:({}={})=>(e=>e.groupBy),orderBy:({}={})=>(e=>e.orderBy)};export{r as atoms,i as callbacks,n as dataset};
