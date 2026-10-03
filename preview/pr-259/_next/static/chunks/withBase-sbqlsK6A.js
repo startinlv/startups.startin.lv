@@ -1,1 +1,0 @@
-function e(e){return`/preview/pr-259${e}`}export{e as t};
