@@ -1,0 +1,1 @@
+function e(e){return`${{}.NEXT_PUBLIC_BASE_PATH??``}${e}`}export{e as t};

@@ -1,3 +1,0 @@
-:HL["/_next/static/chunks/0m-hvk8b32k42.css","style"]
-:HL["https://startin.lv/wp-content/uploads/2023/07/Saikne.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"lang","param":{"type":"d","key":"lv","siblings":[]},"prefetchHints":4208,"slots":{"children":{"name":"companies","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"saikne","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"kretzZAgQke-RDqrboCUW"}
