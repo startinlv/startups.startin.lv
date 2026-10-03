@@ -1,0 +1,1 @@
+import{r as e}from"./framework-2k-VFE-j.js";import{useChartDatasets as t}from"./datasets-Bktg4iUL.js";import{n}from"./filterSummary-BKMsv1fy.js";import{t as r}from"./i18n-BkQ_eV7d.js";var i=e();function a({locale:e}){let a=r(e),{summary:o}=t();return(0,i.jsx)(`span`,{children:o.map(({selection:e,live:t})=>n(e,t,a)).map(e=>e.join(` · `)).join(``)})}export{a as default};

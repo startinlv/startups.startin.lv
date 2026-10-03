@@ -1,0 +1,1 @@
+import{r as e}from"./framework-2k-VFE-j.js";import{c as t,l as n}from"./format-CrFBztZF.js";var r=e();function i({value:e,fmt:i}){if(e===null)return(0,r.jsx)(`span`,{className:`text-slate-400`,children:`–`});let a=e>0,o=i===`pct1`?n(e):t(e);return(0,r.jsxs)(`span`,{className:a?`text-positive`:`text-negative`,children:[a?`▲`:`▼`,` `,o]})}export{i as t};

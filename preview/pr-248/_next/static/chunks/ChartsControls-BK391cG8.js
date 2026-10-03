@@ -1,0 +1,1 @@
+import{r as e}from"./framework-2k-VFE-j.js";import{useChartDatasets as t}from"./datasets-Bktg4iUL.js";import{n,t as r}from"./MobileFilterDrawer-Pi_ku3Bz.js";import{t as i}from"./i18n-BkQ_eV7d.js";var a=e();function o({locale:e,...o}){let{live:s}=t(),c=i(e);return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(n,{...o,live:s,t:c}),(0,a.jsx)(r,{...o,live:s,t:c})]})}export{o as default};
