@@ -1,1 +1,0 @@
-function e(e,t){return e!=null&&t!=null?Array.from({length:t-e+1},(t,n)=>e+n):[]}export{e as t};
